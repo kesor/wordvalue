@@ -1,5 +1,5 @@
 require File.dirname(__FILE__) + '/spec_helper'
-require File.dirname(__FILE__) + '/wordvalue'
+require File.dirname(__FILE__) + '/../lib/wordvalue'
 
 describe WordValueParser do
   include ParserSpecHelper
