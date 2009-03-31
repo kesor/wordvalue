@@ -10,3 +10,6 @@ Examples:
     parse("pair").value # => 2
     parse("a dozen").value # => 12
 
+Stackoverflow.com question and discussion is here:
+http://stackoverflow.com/questions/70161/how-to-read-values-from-numbers-written-as-words
+
